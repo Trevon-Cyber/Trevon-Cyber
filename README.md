@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Trevon Lewis
 
-<!--
-**Trevon-Cyber/Trevon-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT & Cybersecurity student** passionate about **cloud computing, networking, and security labs**.  
+I'm currently building my portfolio and developing hands-on skills to become a strong IT professional.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools I'm Learning
+- Networking (Cisco, subnetting, routing)
+- Linux basics
+- Windows Server & Active Directory
+- Cloud computing (AWS & Azure)
+- Cybersecurity fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What I'm Working On
+- Setting up home labs  
+- Studying for future IT certifications  
+- Learning GitHub and building projects  
+
+### 🎯 Goals
+To build real-world skills, land an entry-level IT role, and grow into cybersecurity or cloud engineering.
+
+---
+
+Thanks for visiting my profile!
